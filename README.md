@@ -1,8 +1,8 @@
-<h1 align="center">Hi there👋, I'm Ikram</h1>
-<h3 align="center">Computer Science & AI student passionate about turning data into insights and building intelligent systems.
+## Hi there👋, I'm Ikram
+<h5 align="center">Computer Science & AI student passionate about turning data into insights and building intelligent systems.
 Aspiring Data Scientist & AI Engineer, eager to tackle real-world challenges with Machine Learning, Deep Learning, and AI. Curious, proactive, and driven, I enjoy working on innovative projects, learning continuously, and contributing to meaningful solutions in the world of AI.
   
-💡 Interested in Artificial Intelligence, Software Development, Project Management, and Digital Innovation.</h3>
+💡 Interested in Artificial Intelligence, Software Development, Project Management, and Digital Innovation.</h5>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -36,11 +36,11 @@ Aspiring Data Scientist & AI Engineer, eager to tackle real-world challenges wit
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ikramebem&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikramebel&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramebem&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramebel&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
